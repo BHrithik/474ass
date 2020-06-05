@@ -8,7 +8,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/BHrithik/474ass/handler"
+	"github.com/BHrithik/474telstra/handler"
 	"github.com/gorilla/mux"
 )
 
